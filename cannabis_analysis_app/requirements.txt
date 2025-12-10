@@ -6,4 +6,9 @@ statsmodels
 scikit-learn
 nbformat
 nbconvert
-zipfile
+ipython
+matplotlib
+seaborn
+python-dateutil
+zipfile36
+kaleido

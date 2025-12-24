@@ -34,7 +34,9 @@ Users can upload datasets or notebooks and instantly explore insights, charts, s
 ---
 
 ## ▶ Click On Image To Open App
-[![Smart Data Analysis App](https://github.com/MuhammadSaad-ml/cannabis_analysis_app/raw/main/IMG.png)](https://your-streamlit-app-link-here)
+[![Smart Data & Notebook Analysis App](https://github.com/MuhammadSaad-ml/Smart-Data-Notebook-Analysis/raw/main/cannabis_analysis_app/App.png)](https://uxpsrcrrejhyxsnsg6disb.streamlit.app/)
+🔗 Live App: https://uxpsrcrrejhyxsnsg6disb.streamlit.app/
+
 
 ---
 
